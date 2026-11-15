@@ -10,7 +10,12 @@ def cosine_similarity(v1, v2):
         The cosine_similarity of the two vectors.
     """
     # Implement your code here
+    if v1.shape != v2.shape:
+        raise ValueError("Dimensions are mismatching")
+    
     upper: float = np.dot(v1, v2)
-    p1 = np.sqrt(np.sum(np.abs(v1) ** 2)) 
-    p2 = np.sqrt(np.sum(np.abs(v2) ** 2))
+    p1 = np.linalg.norm(v1)
+    p2 = np.linalg.norm(v2)
+    if p1 == 0 or p2 == 0:
+        return 0.0
     return upper/(p1*p2)
