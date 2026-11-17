@@ -1,8 +1,8 @@
 import numpy as np
 
 def gradient_direction_magnitude(gradient):
-    g = np.asarray(gradient, dtype=float)
-    magn = floanp.linalg.norm(g))
+    g = np.asarray(gradient)
+    magn = np.linalg.norm(g)
 
     if magn == 0.0:
         # Direction undefined; return zero vectors as a safe convention
