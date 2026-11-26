@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**38** solved · 23 problems · 0 labs · 15 math
+**39** solved · 23 problems · 0 labs · 16 math
 
 ![Coverage](./coverage.svg)
 
@@ -52,6 +52,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-11-17 | [solution](math/0012-inverse-and-rank) |
 | [Matrix Calculus Identities](https://www.deep-ml.com/math-problems/35) | medium | 2026-11-26 | [solution](math/0035-matrix-calculus-identities) |
 | [Multivariate Calculus](https://www.deep-ml.com/math-problems/2) | medium | 2026-11-22 | [solution](math/0002-multivariate-calculus) |
+| [Neural Network Derivatives](https://www.deep-ml.com/math-problems/3) | medium | 2026-11-26 | [solution](math/0003-neural-network-derivatives) |
 | [Orthogonality and Projections](https://www.deep-ml.com/math-problems/14) | medium | 2026-11-19 | [solution](math/0014-orthogonality-and-projections) |
 | [Solving Linear Systems](https://www.deep-ml.com/math-problems/13) | medium | 2026-11-17 | [solution](math/0013-solving-linear-systems) |
 | [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-11-15 | [solution](math/0008-vector-norms-and-linear-independence) |
