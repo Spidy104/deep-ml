@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T03:27:35.233Z",
+  "generated_at": "2026-11-26T03:34:57.726Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -509,7 +509,7 @@
       "url": "https://www.deep-ml.com/problems/214",
       "path": "problems/0214-chain-rule-for-composite-functions",
       "first_solved_at": "2026-11-26T03:27:32.962Z",
-      "last_pushed_at": "2026-11-26T03:27:32.962Z",
+      "last_pushed_at": "2026-11-26T03:34:55.491Z",
       "language": "python",
       "lines": 35
     }
